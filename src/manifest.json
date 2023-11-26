@@ -1,7 +1,7 @@
 {
   "name": "Emulate Print Media",
   "description": "Toggle DevTools Emulate CSS media type print",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "jeffothy@gmail.com",
   "manifest_version": 3,
   "action": {
